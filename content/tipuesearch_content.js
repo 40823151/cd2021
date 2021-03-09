@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': '陳冠宇的網站 \n 黃翊銘的網站 \n stage ag22 的網站', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': '陳冠宇的網站 \n 陳冠宇的倉儲 \n 黃翊銘的網站 \n 黃翊銘的倉儲 \n stage ag22 的網站 \n stage ag22 的倉儲', 'tags': '', 'url': 'About.html'}]};
