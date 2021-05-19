@@ -22,13 +22,14 @@
 <v t="leo.20200818170535.1"><vh>slide 2</vh>
 <v t="leo.20210518133202.1"><vh>newHeadline</vh></v>
 <v t="leo.20210518133202.2"><vh>newHeadline</vh></v>
+<v t="leo.20210519160201.1"><vh>newHeadline</vh></v>
 </v>
-<v t="leo.20200818170725.1"><vh>slide 4</vh></v>
 <v t="leo.20200818170636.1"><vh>slide3</vh>
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
 <v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
 </v>
+<v t="leo.20200818170725.1"><vh>slide 4</vh></v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
 <v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
@@ -211,8 +212,8 @@ vertical: body pane on the botton</t>
     @others
 &lt;/div&gt;</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
- &lt;h1&gt;stage3-ag2&lt;/h1&gt;
-&lt;h1&gt;第十一周進度報告&lt;/h1&gt;
+ &lt;h2&gt;stage3-ag2&lt;/h2&gt;
+&lt;h2&gt;第十二周進度報告&lt;/h2&gt;
 &lt;/section&gt;
 
 </t>
@@ -237,27 +238,22 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
-    &lt;h2&gt;Vertical Slides&lt;/h2&gt;
-    &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
-    &lt;p&gt;Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#" class="navigate-down"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;
+    &lt;h2&gt;工作內容分配&lt;/h2&gt;
+    &lt;/section&gt;
+    
 </t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 1&lt;/h2&gt;
-    &lt;p&gt;Nested slides are useful for adding additional detail underneath a high level horizontal slide.&lt;/p&gt;
+    &lt;h2&gt;製圖工作&lt;/h2&gt;
+    &lt;h3&gt;林晏鈴&lt;/h3&gt;   
+    &lt;h3&gt;劉怡萱&lt;/h3&gt;
+    &lt;h3&gt;葉沛翎&lt;/h3&gt;
+   
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818171010.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 2&lt;/h2&gt;
-    &lt;p&gt;That's it, time to go back up.&lt;/p&gt;
+    &lt;h2&gt;其餘人員&lt;/h2&gt;
     &lt;br&gt;
-    &lt;a href="#/2"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1); transform: rotate(180deg);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Up arrow"&gt;
-    &lt;/a&gt;
+    &lt;h2&gt;後台輔助工作&lt;/h2&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20200818171138.1">&lt;section data-auto-animate&gt;
     &lt;h2 data-id="code-title"&gt;Pretty Code&lt;/h2&gt;
@@ -646,11 +642,18 @@ console.log( '"customevent" has fired' );
 &lt;/section&gt;</t>
 <t tx="leo.20210518133202.1">
 &lt;section&gt;
-    &lt;h1&gt;組內討論時間&lt;/h1&gt;
+    &lt;h1&gt;主題討論&lt;/h1&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210518133202.2">&lt;section&gt;
-    &lt;h2&gt;確保組員都跟上進度&lt;/h2&gt;
-    &lt;p&gt;SSH ， 網站架設，分組網站&lt;/p&gt;
+    &lt;h2&gt;列出多個選項&lt;/h2&gt;
+    &lt;p&gt;1. 火車分度頭&lt;/p&gt;
+&lt;p&gt;2. 機械式停車格&lt;/p&gt;
+&lt;p&gt;3. 大港橋旋轉機構&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210519160201.1">&lt;section&gt;
+&lt;h2&gt;最後題目&lt;/h2&gt;
+&lt;br&gt;
+&lt;h1&gt;停車塔&lt;/h1&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
