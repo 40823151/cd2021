@@ -19,11 +19,10 @@
 <v t="leo.20200818170041.1"><vh>reveal div</vh>
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
-<v t="leo.20200818170535.1"><vh>slide 2</vh>
-<v t="leo.20210518133202.1"><vh>newHeadline</vh></v>
+<v t="leo.20200818170535.1"><vh>slide 2</vh></v>
 <v t="leo.20210518133202.2"><vh>newHeadline</vh></v>
 <v t="leo.20210519160201.1"><vh>newHeadline</vh></v>
-</v>
+<v t="leo.20210518133202.1"><vh>newHeadline</vh></v>
 <v t="leo.20200818170636.1"><vh>slide3</vh>
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
@@ -213,17 +212,22 @@ vertical: body pane on the botton</t>
 &lt;/div&gt;</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
  &lt;h2&gt;stage3-ag2&lt;/h2&gt;
-&lt;h2&gt;第十二周進度報告&lt;/h2&gt;
+&lt;h2&gt;期末報告&lt;/h2&gt;
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170535.1">
-
-&lt;!-- Example of nested vertical slides --&gt;
-&lt;section&gt;
-    @others
-&lt;/section&gt;
-</t>
+<t tx="leo.20200818170535.1">&lt;section&gt;   
+&lt;h2&gt;每週進度&lt;/h2&gt;
+    &lt;p&gt;
+&lt;p&gt;W11 討論專題方向、每週進度&lt;/p&gt;
+&lt;p&gt;W12 建置網頁，每位成員進行協同，並討論題目&lt;/p&gt;
+&lt;p&gt;W13 進行零件繪製並討論分工&lt;/p&gt;
+&lt;p&gt;W14 進行零件繪製並討論&lt;/p&gt;
+&lt;p&gt;W15 修正零件圖並進行coppeliasim模擬並修正&lt;/p&gt;
+&lt;p&gt;W16 進行coppeliasim模擬與機構更改&lt;/p&gt;
+&lt;p&gt;W17 進行coppeliasim模擬讓程式控制鍵盤可以操作&lt;/p&gt;
+&lt;p&gt;W18 討論期末分工並進行報告&lt;/p&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20200818170636.1">
 
 &lt;!-- Example of nested vertical slides --&gt;
@@ -645,10 +649,8 @@ console.log( '"customevent" has fired' );
     &lt;h1&gt;主題討論&lt;/h1&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210518133202.2">&lt;section&gt;
-    &lt;h2&gt;列出多個選項&lt;/h2&gt;
-    &lt;p&gt;1. 火車分度頭&lt;/p&gt;
-&lt;p&gt;2. 機械式停車格&lt;/p&gt;
-&lt;p&gt;3. 大港橋旋轉機構&lt;/p&gt;
+    &lt;h2&gt;接下來廢話少說
+    &lt;br&gt;直接看我網站吧!!!&lt;/h2&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210519160201.1">&lt;section&gt;
 &lt;h2&gt;最後題目&lt;/h2&gt;
