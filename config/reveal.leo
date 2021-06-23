@@ -650,9 +650,7 @@ console.log( '"customevent" has fired' );
 &lt;/section&gt;</t>
 <t tx="leo.20210518133202.2">&lt;section&gt;
     &lt;h2&gt;接下來廢話少說
-    &lt;br&gt;直接看我
-        - &lt;a href="https://40823151.github.io/cd2021/content/index.html"&gt;網站&lt;/a&gt; &lt;br&gt;
-    吧!!!&lt;/h2&gt;
+    &lt;br&gt;直接看我&lt;a href="https://40823151.github.io/cd2021/content/index.html"&gt;網站&lt;/a&gt; 吧!!!&lt;/h2&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210519160201.1">&lt;section&gt;
 &lt;h2&gt;最後題目&lt;/h2&gt;
